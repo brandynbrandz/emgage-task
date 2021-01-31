@@ -118,11 +118,13 @@ This is an example of how to list things you need to use the software and how to
    npm run build
    ```
 
-7. Open browser at
+7. Relax now, Testing has been initiated to run on each first (`npm run build`).
+
+8. Open browser at
    ```sh
    http://127.0.0.1:4000/
    ```
-8. Click _Go to Roles_ button and play around with the Type safe implemented code.
+9. Click _Go to Roles_ button and play around with the Type safe implemented code.
 
 <!-- ROADMAP -->
 
@@ -158,13 +160,7 @@ Website: [Brandynodoyo.com](https://brandynodoyo.com)
 - [Stackoverflow](https://stackoverflow.com/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/brandynodoyo/
-[product-screenshot]: ./emgage.jpg
+[product-screenshot]: images/emgage.jpg
