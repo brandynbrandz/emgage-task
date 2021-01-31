@@ -167,4 +167,4 @@ Website: [Brandynodoyo.com](https://brandynodoyo.com)
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/brandynodoyo/
-[product-screenshot]: images/emgage.jpg
+[product-screenshot]: ./emgage.jpg
